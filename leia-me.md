@@ -1,4 +1,3 @@
-Criar um arquivo batch para desinstalar uma atualização do Windows por meio de uma GPO (Política de Grupo) envolve alguns passos. Primeiro, vamos criar o arquivo batch e, em seguida, orientá-lo sobre como implementar esse arquivo usando uma GPO.
 
 ### 1. Criando o arquivo batch
 
